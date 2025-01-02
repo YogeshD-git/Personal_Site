@@ -1,2 +1,2 @@
 # Personal_Site
-This is real me
+I created this webpage using HTML and CSS, just to create resume in webpage and to learn
